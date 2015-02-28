@@ -1,6 +1,6 @@
 package fr.moise.moisetest.repository;
 
-import fr.moise.moisetest.Moise;
+import fr.moise.moisetest.model.Moise;
 import org.springframework.data.repository.CrudRepository;
 
 /**

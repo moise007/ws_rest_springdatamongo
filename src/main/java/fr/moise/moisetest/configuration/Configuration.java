@@ -1,4 +1,4 @@
-package fr.moise.moisetest;
+package fr.moise.moisetest.configuration;
 
 
 import org.springframework.boot.context.embedded.ConfigurableEmbeddedServletContainer;

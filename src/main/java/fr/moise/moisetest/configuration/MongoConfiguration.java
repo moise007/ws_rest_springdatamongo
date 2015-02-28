@@ -1,4 +1,4 @@
-package fr.moise.moisetest;
+package fr.moise.moisetest.configuration;
 
 import com.mongodb.Mongo;
 import org.springframework.context.annotation.Configuration;
@@ -10,7 +10,7 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
  */
 @Configuration
 @EnableMongoRepositories
-public class ApplicationConfiguration extends AbstractMongoConfiguration {
+public class MongoConfiguration extends AbstractMongoConfiguration {
 
 
     @Override

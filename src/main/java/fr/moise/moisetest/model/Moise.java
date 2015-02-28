@@ -1,4 +1,4 @@
-package fr.moise.moisetest;
+package fr.moise.moisetest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

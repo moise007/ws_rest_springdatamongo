@@ -1,5 +1,6 @@
-package fr.moise.moisetest;
+package fr.moise.moisetest.controller;
 
+import fr.moise.moisetest.model.Moise;
 import fr.moise.moisetest.repository.MoiseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.CrudRepository;
