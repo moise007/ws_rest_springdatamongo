@@ -48,5 +48,9 @@ public abstract class AbstractCrudController<T, ID extends Serializable> {
         getCrudRepository().deleteAll();
     }
 
+    @RequestMapping(value = "/save", method = RequestMethod.PUT)
+    public T save(T o) {
+        return getCrudRepository().save(o);
+    }
 
 }
