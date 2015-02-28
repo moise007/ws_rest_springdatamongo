@@ -1,0 +1,7 @@
+fr/moise/moisetest/AbstractCrudController.class
+fr/moise/moisetest/Application.class
+fr/moise/moisetest/repository/MoiseRepository.class
+fr/moise/moisetest/ApplicationConfiguration.class
+fr/moise/moisetest/Configuration.class
+fr/moise/moisetest/MoiseController.class
+fr/moise/moisetest/Moise.class
